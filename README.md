@@ -1,27 +1,18 @@
 
 
 
-## <div align="center">Hi I'm Diego Sanhueza 👋</div>
+<div align="center">
+<h1 align="center">Hi, I'm Diego Sanhueza 👋</h1>
+</div>
 
+About me
+
+-
+- I am looking for an internship where I can gain experience and learn as much as I can 💻⚡️.
+- I enjoy reading books. 💭
+-
 <br>
 
-### <div align="center">I am a computer engineering student who likes to learn everything.</div>
-
-
-- I am looking for an internship where I can gain experience and learn as much as I can 💻⚡️.
 
 
 
-<br/>  
-
-<br/>
-
-
-</td></tr></table>
-
-<br/>  
-
-
-
-
-<br />
