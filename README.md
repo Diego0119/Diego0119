@@ -7,10 +7,10 @@
 
 About me
 
--
+- Computer Engineering student eager to learn 📚.
 - I am looking for an internship where I can gain experience and learn as much as I can 💻⚡️.
 - I enjoy reading books. 💭
--
+
 <br>
 
 
