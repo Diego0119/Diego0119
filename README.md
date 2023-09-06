@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Diego Sanhueza👋
 
 <!--
 **Diego0119/Diego0119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
