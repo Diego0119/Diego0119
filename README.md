@@ -106,8 +106,8 @@
 
 <li>
 <a href="https://linkedin.com/in/diego-sanhueza-ag/" target="_blank">
-
-</a>
+<img src="[https://img.shields.io/badge/linkedin:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)" t=mail style="margin-bottom: 5px;" />
+</a>	
 </li>
 
 <br>
