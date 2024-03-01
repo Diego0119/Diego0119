@@ -38,12 +38,15 @@
 <br>   
     
 - **Technologies**:
-  
+
    ![Node JS](https://img.shields.io/badge/Node.js%20-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
    ![Laravel](https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
    ![MySQL](https://img.shields.io/badge/MySQL%20-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
    ![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%20-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
 <br>
