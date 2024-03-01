@@ -32,7 +32,7 @@
 - **Languages**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![JavaScript]( https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+    ![JavaScript](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![PHP](https://img.shields.io/badge/Php%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
