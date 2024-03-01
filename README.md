@@ -38,10 +38,12 @@
 <br>   
     
 - **Technologies**:
+   ![Node JS](https://img.shields.io/badge/Node.js%20-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+   ![Laravel](https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+   ![MySQL](https://img.shields.io/badge/MySQL%20-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+   ![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
-   ![Node JS](https://img.shields.io/badge/nodejs5%20-%23E34F26.svg?style=for-the-badge&logo=nodejs&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br>
 
@@ -97,13 +99,6 @@
 <div align='left'>
 
 <ul>
-
-<li>
-<a href="https://linkedin.com/in/diego-sanhueza-ag/" target="_blank">
-<img src="[https://img.shields.io/badge/linkedin:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)" t=mail style="margin-bottom: 5px;" />
-</a>	
-</li>
-
 <br>
 
 <br>
