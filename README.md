@@ -38,6 +38,7 @@
 <br>   
     
 - **Technologies**:
+  
    ![Node JS](https://img.shields.io/badge/Node.js%20-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
    ![Laravel](https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
    ![MySQL](https://img.shields.io/badge/MySQL%20-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
