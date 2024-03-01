@@ -20,7 +20,7 @@
 - A passionate Self-taught developer
 - I like to exercise
 - Learning everyday new things
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I’m currently open for an Intern or a new job opportunity
 
 <br><br>
 
