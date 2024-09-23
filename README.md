@@ -9,4 +9,4 @@ Estudiante de ingenieria informatica con ansias de aprender y seguir creciendo e
 
 ## Sobre Mí
 
-Me motiva la curiosidad por descubrir nuevas formas de mejorar los procesos empresariales y personales a través de la tecnología. Mi pasión por la tecnología va más allá de la programación.
+Me motiva la curiosidad por descubrir nuevas formas de mejorar y optimizar los procesos en las empresas. Mi pasión por la tecnología va más allá de la programación.
