@@ -5,7 +5,7 @@ Estudiante de ingenieria informatica con ansias de aprender y seguir creciendo e
 ## Contacto
 
 - **Email:** diegoosanhuezaal@icloud.com 📧
-- **LinkedIn:** [linkedin.com/in/diego-sanhueza]((https://www.linkedin.com/in/diego-sanhueza-ag) 🔗
+- **LinkedIn:** [linkedin.com/in/diego-sanhueza](https://www.linkedin.com/in/diego-sanhueza-ag) 🔗
 
 ## Sobre Mí 🙋‍♂️
 
