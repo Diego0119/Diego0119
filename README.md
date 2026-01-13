@@ -1,6 +1,6 @@
 # Diego Sanhueza
 
-Estudiante de ingenieria informatica con ansias de aprender y seguir creciendo en el mundo de la informatica.
+Ingeniero Informatico
 
 ## Contacto
 
