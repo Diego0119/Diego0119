@@ -1,6 +1,6 @@
 # Diego Sanhueza
 
-Ingeniero Informatico
+Ingeniero Informático
 
 ## Contacto
 
